@@ -1,0 +1,4 @@
+Once upon a time, in downtown {city}, there lived a man name {name}. {name}'s favorite food was {food}, so {name} decided to explore the streets of {city} in search of some {food}. {name} searched for {food} in {city} all day, and it took them {number} hours to find a restaurant that served {food}. Once ther did find it however, the {food} was delicious!
+
+
+The End. 
